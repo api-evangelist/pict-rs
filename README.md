@@ -64,5 +64,26 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-pict-rs is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://git.asonix.dog/asonix/pict-rs
+pict-rs is an open-source, self-hosted image hosting service written in Rust. It provides a simple HTTP API for uploading, retrieving, and managing images, supporting features such as animated GIFs, video files, and configurable storage back‑ends. The project is maintained by the developer known as asonix and is hosted on a Forgejo instance, with documentation available in the repository README and a community chat on Matrix. It is licensed under AGPL‑3.0 and can be run via command‑line, Docker, or as a system service.
+
+**Areas:** Image Hosting · Rust · Open Source · API · Self-hosted
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://git.asonix.dog/asonix/pict-rs)
+- [Documentation](https://git.asonix.dog/asonix/pict-rs/raw/branch/main/README.md)
+- [Getting started](https://git.asonix.dog/asonix/pict-rs/raw/branch/main/README.md)
+- [API reference](https://git.asonix.dog/asonix/pict-rs/raw/branch/main/README.md)
+- [Support](https://matrix.to/#/#pictrs:matrix.asonix.dog?via=matrix.asonix.dog)
+- [Changelog](https://git.asonix.dog/asonix/pict-rs/releases)
+- [Blog](https://masto.asonix.dog/@asonix)
+- [Security](https://codeberg.org/forgejo/governance/src/branch/main/SECURITY-POLICY.md)
+- [Privacy policy](https://masto.asonix.dog/privacy-policy)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/pict-rs/](https://apis.io/providers/pict-rs/).
