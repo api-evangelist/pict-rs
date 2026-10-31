@@ -68,6 +68,56 @@ pict-rs is an open-source, self-hosted image hosting service written in Rust. It
 
 **Areas:** Image Hosting · Rust · Open Source · API · Self-hosted
 
+## pict-rs on APIs.io
+
+Everything profiled for pict-rs is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/pict-rs/](https://apis.io/providers/pict-rs/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [pict-rs API](https://apis.io/apis/pict-rs/pict-rs-api/) — Simple image hosting service API as described in the repository README.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Pict Rs Openapi Overlay](https://apis.io/overlays/pict-rs/pict-rs-openapi-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [pict-rs API Rules](https://apis.io/rules/pict-rs/pict-rs-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Pict Rs Authentication](https://apis.io/security/pict-rs/pict-rs-authentication/)
+- [Pict Rs Domain Security](https://apis.io/security/pict-rs/pict-rs-domain-security/)
+- [Pict Rs Vulnerability Disclosure](https://apis.io/security/pict-rs/pict-rs-vulnerability-disclosure/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Pict Rs Scopes](https://apis.io/scopes/pict-rs/pict-rs-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Pict Rs Plans Pricing](https://apis.io/plans/pict-rs/pict-rs-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Pict Rs Rate Limits](https://apis.io/rate-limits/pict-rs/pict-rs-rate-limits/)
+
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
@@ -82,8 +132,57 @@ Links to the company's own pages. This repository publishes no copy of their spe
 - [Security](https://codeberg.org/forgejo/governance/src/branch/main/SECURITY-POLICY.md)
 - [Privacy policy](https://masto.asonix.dog/privacy-policy)
 
-**APIs profiled:** 1
-
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/pict-rs/](https://apis.io/providers/pict-rs/).
+**Kin Score 38.0** — thin · rubric 0.25.0 · scored 2026-10-28
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 0.0 |
+| Contract governance | 79.1 |
+| Operational transparency | 26.3 |
+| Developer ergonomics | 70.7 |
+| Access clarity | 10.5 |
+
+**Agent readiness 23.3** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 36.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/pict-rs/](https://apis.io/providers/pict-rs/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for pict-rs: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/pict-rs/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
